@@ -1,11 +1,12 @@
-# GitPitch In-60-Seconds - A Very Short Tutorial.
+#
+# LAPAN
 #
 
 #
-# Theme Template
+# Theme Setting
 # Doc: https://gitpitch.com/docs/themes/default
 #
-theme : template
+theme            : template
 
 theme-background : [ "#FFF" ]
 theme-headline   : [ "Raleway", "#5289F7", "none" ]
@@ -16,11 +17,13 @@ theme-code       : [ "Source Code Pro" ]
 theme-controls   : [ "#484848" ]
 theme-margins    : [ "0", "15px" ]
 
+highlight        : tomorrow
+
 #
-# Highlight Setting
+# Code Highlight Setting
 # Doc: https://gitpitch.com/docs/settings/highlight
 #
-highlight : tomorrow
+highlight        : solarized-light
 
 #
 # Theme-Override Setting
@@ -45,7 +48,7 @@ layout : center
 # Footnote Setting
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
-footnote : "GitPitch - The Fastest Way From Idea To Presentation"
+footnote : "Workshop Digital Service Strategy dalam Program Prioritas Nasional untuk mendukung Sustainable Development Goals (SDGs), Bogor 16 - 17 Oktober 2019, LAPAN"
 
 #
 # Published Setting
@@ -53,10 +56,3 @@ footnote : "GitPitch - The Fastest Way From Idea To Presentation"
 #
 published : true
 
-#
-# Twitter Card Settings [Pro Only]
-# Doc: https://gitpitch.com/docs/settings/twitter-card
-#
-title : "GitPitch In 60 Seconds"
-description : "A short tutorial introducing the power and simplicity of GitPitch, the markdown presentation service on Git."
-thumbnail : https://gitpitch.com/gpimg/tutorial-thumb.png
