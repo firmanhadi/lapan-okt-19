@@ -214,7 +214,7 @@ Tune your PostgreSQL at https://pgtune.leopard.in.ua/
 
 @css[title-top-right](Backup)
 
-![Gravity](https://youtu.be/S8lZXFINZQk)
+![Video](https://youtu.be/S8lZXFINZQk)
 
 ---?video=assets/vid/pooling_mechanism_poc_v1.m4v
 @title[Pooling mechanism I]
