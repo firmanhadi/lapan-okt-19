@@ -232,7 +232,3 @@ Tune your PostgreSQL at https://pgtune.leopard.in.ua/
 @snap[north span-100 h2-white]
 ## Any question?
 @snapend
-
-@snap[south span-100 text-06]
-[You can download this presentation at](https://gitpitch.com/firmanhadi/getting-started/tutorial/)
-@snapend
