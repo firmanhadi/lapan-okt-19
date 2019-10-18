@@ -210,10 +210,11 @@ Tune your PostgreSQL at https://pgtune.leopard.in.ua/
 ---?video=assets/vid/ha_pg_patroni.mp4
 @title[Automatic failover with Patroni]
 
----?video=https://youtu.be/S8lZXFINZQk
+---
 
-@title[Backup]
+@css[title-top-right](Backup)
 
+![Gravity](https://youtu.be/S8lZXFINZQk)
 
 ---?video=assets/vid/pooling_mechanism_poc_v1.m4v
 @title[Pooling mechanism I]
